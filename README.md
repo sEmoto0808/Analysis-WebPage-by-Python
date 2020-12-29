@@ -1,2 +1,4 @@
 # Analysis-WebPage-by-Python
 PythonでWebページを解析
+
+requestsとBeautifulSoupを使ってNewsPicksのトップページ記事のタイトルをcsvで出力するプログラム
