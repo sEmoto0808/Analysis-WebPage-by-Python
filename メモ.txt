@@ -1,0 +1,7 @@
+# 「requests」ライブラリのインストール
+$ pip3 install requests
+requestsはWebサイトから情報の取得を行います。
+
+# 「Beautiful Soup」ライブラリのインストール
+$ pip3 install BeautifulSoup4
+Beautiful SoupはHTMLの解析を行います。
